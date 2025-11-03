@@ -29,7 +29,7 @@ pip install -r requirements.txt
 
 
 ⚙️ Setup Guide
-Clone the repository or extract the ZIP file git clone https://github.com/yourusername/tickets_system.git
+Clone the repository or extract the ZIP file git clone https://github.com/DivineHosting/Ticket-Bot.git
 cd tickets_system
 
 Add your bot token
